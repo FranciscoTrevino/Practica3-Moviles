@@ -63,7 +63,7 @@ final VoidCallback press;
           color: Colors.white,fontSize: 14, fontWeight: FontWeight.w500
         )
       ),
-      child: const Text("Botón"));
+      child: const Text("Calcular"));
   }
 }
 
